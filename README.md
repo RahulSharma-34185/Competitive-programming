@@ -1,3 +1,3 @@
 # Competitive-programming
 <br>
-Author - Shradha Khapra
+Author - Shradha (apna college)
